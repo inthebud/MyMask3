@@ -1,0 +1,24 @@
+html{font-size: 62.5%;}
+
+body{background-color: #68cdd5;color: #FFFFFF;font-size: 1rem;}
+
+div.return{
+	position: absolute;
+	left:1rem;
+	top:1rem;
+	width: 2.5rem;
+	height: 2.5rem;	
+	background-image: url("images/01.png");
+	background-size: 2.5rem;
+}
+
+div.wrap{padding:4rem 15% 0 15%;}
+h1{margin:0 0 5rem 0;text-align: center;}
+h1>img{width: 9rem;}
+p.introduction{margin-bottom: 8rem;height: 4rem;}
+div.leftfoot>p{margin:0;text-align: center;}
+div.leftfoot>img{width: 4rem;}
+div.rightfoot>p{margin:0;text-align: center;}
+div.rightfoot>img{width: 4rem;}
+div.leftfoot{width:6rem;float: left;text-align: center;}
+div.rightfoot{width: 6rem;float: right;text-align: center;}
